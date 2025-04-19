@@ -48,9 +48,9 @@ Invalid inputs will result in a message indicating that the input could not be u
 
 ##Dependencies
 This project uses the following Rust crates:
+-lazy_static: For defining static regular expressions.
+-regex: For parsing natural language inputs.
 
-lazy_static: For defining static regular expressions.
-regex: For parsing natural language inputs.
 Project Structure
 src/main.rs: Contains the main logic for handling user input and performing calculations.
 
